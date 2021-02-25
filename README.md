@@ -1,0 +1,1 @@
+# class-validator-base58
